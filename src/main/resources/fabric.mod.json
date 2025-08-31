@@ -1,0 +1,1 @@
+{"schemaVersion": 1,"id": "cwd","version": "1.0.0","name": "CWD","description": "Allows chat to be opened while dead (Fabric 1.21.4).","authors": ["liam0050"],"license": "MIT","environment": "*","entrypoints": {"client": ["liam0050.cwd.OpenChatWhenDeadMod"]},"depends": {"fabricloader": ">=0.15.0","minecraft": "1.21.4"}}
